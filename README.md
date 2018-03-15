@@ -1,3 +1,2 @@
 # AutomationUITest
-# тип новые изменения в ветке тест
-#master
+# изменения внесены в ветке test_branch
